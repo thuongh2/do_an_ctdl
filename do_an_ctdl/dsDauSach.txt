@@ -1,0 +1,16 @@
+15
+HTVPD123,Hanh Trinh Ve Phuong Dong,256,Bair T Spalding,2019,Ton Giao,5
+ABCD,Bat Dac Di,1234,Nguyen,2021,Cuoc Song,19
+TG123456,The Gioi 3 Khong,248,Muhammad Yunus,2019,Kinh Te,10
+D456789,Dac Nhan Tam,80,Dale Carnegic,2015,Cuoc Song,10
+T123456,The Gioi Phang,720,Thomas L. Friedman,2014,Kinh Te,10
+A123456789,Chien Tranh Tien Te,471,Shong Hong Bin,2019,Tai Chinh,10
+H147258,Hai So Phan,636,Jeffrey Archer,2014,Cuoc Song,15
+TT456789,Tiep Thi 4.0,264,Nguyen Khoa Hong,2019,Kinh Te,10
+C123458,Cam Nang Tu Hoc,100,Kien Tran,2000,Tieng Anh,10
+ABCD123456,Hom Nay Troi Mua,1234,Truc Ly,2021,Cuoc Song,10
+K123456,Khong Theo Loi Mon,100,Ellen Singer,2016,Cuoc Song,10
+NGK123457,Nha Gia Kim,100,Paulo Coelho,2000,Cuoc Song,10
+TDB3546,Tren Duong Bang,100,Tony Buoi Sang,2000,Cuoc Song,10
+ABCDE,Cau Truc Du Lieu,100,Ntt,2021,Cong Nghe Thong Tin,5
+1234,Cau Truc Du Lieu,100,Hcmute,2020,Khoa Hoc,2

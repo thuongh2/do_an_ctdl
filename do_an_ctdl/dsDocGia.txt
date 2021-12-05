@@ -1,0 +1,15 @@
+14
+10769,Nguyen Thi My Linh,2,0,1
+17820,Nguyen Thanh Nam,1,1,2
+19954,Le Chi Cuong,1,0,2
+21917,Do Nhat Ha,1,0,1
+22048,Vo Hoai Thuong,1,1,0
+22767,Vo Hoai Thuong,1,1,1
+23036,Tran Nhat Quan,1,0,3
+24040,Trinh Phong Vu,1,1,0
+25226,Tran Quoc Huy,1,1,0
+27310,Tran Thi Truc Ly,2,0,3
+28079,Ho Thi Bich Tuyen,2,1,0
+28799,Cao Thai An,1,1,0
+29196,Nguyen Van Tinh,1,1,0
+30164,Le Thi Thuy Dung,2,1,0
